@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello, I'm Rokas, a PhD student at the University of Cambridge applying machine learning to challenges in chemistry. My research has ranged from applied projects, like building models to predict reaction yields, to more fundamental work on generative models based on local similarity.
+
+My coding philosophy has been shaped by practical experience. An early PhD [workshop](https://the-munchkins.gitlab.io/do-research-like-a-munchkin/#our-vision) on good software practices instilled in me the value of unit testing. However, helping to maintain widely-used research code like [MACE](https://github.com/ACEsuit/mace) has taught me a more crucial lesson: aggressively avoid complexity. While I still value testing, I now believe the most maintainable code is simple code, a sentiment captured perfectly by the Grug Brained Developer's mantra: "complexity very very bad!"
+
+### Publication-related Repositories
+- [SiMGen](https://github.com/RokasEl/simgen) -- Using representations from foundational MLFF models to build similarity kernels, which can act as generative models.
+- [DiastereomericResolutions](https://github.com/RokasEl/DiastereomericResolutions) -- Building an ML model on top of molecular dynamics based pair representations of enantiomer-resolving agent pairs to predict success of diastereomeric salt resolutions.
 
 <!--
 **RokasEl/RokasEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
